@@ -2,8 +2,6 @@
 
 A small Python utility that likes every video in a YouTube playlist using OAuth 2.0.
 
-> Important: **You cannot use a Google "app password" for the YouTube Data API.** Authenticate with OAuth 2.0 (desktop client) as described below.
-
 ---
 
 ## Contents
