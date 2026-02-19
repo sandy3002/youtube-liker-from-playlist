@@ -93,7 +93,3 @@ python like_playlist.py PLxxxxx --delay 2 --yes
 - Optionally support CSV import of playlist IDs.
 
 ---
-
-## License
-
-MIT — see `LICENSE` (if you want one added, tell me and I’ll add it).
