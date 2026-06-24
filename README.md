@@ -1,6 +1,7 @@
 # YouTube Playlist Liker 🚀
 
 A small Python utility that likes every video in a YouTube playlist using OAuth 2.0.
+(Created because I wanted to like all songs of a playlist to make them favourable in yt music algorithm. Creatd using AI)
 
 ---
 
